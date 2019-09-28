@@ -1,0 +1,7 @@
+D:\Oleh\Code\Homework05BigDoge\BigDog\BigDog\obj\Debug\BigDog.csprojAssemblyReference.cache
+D:\Oleh\Code\Homework05BigDoge\BigDog\BigDog\obj\Debug\BigDog.csproj.CoreCompileInputs.cache
+D:\Oleh\Code\Homework05BigDoge\BigDog\BigDog\bin\Debug\BigDog.exe.config
+D:\Oleh\Code\Homework05BigDoge\BigDog\BigDog\bin\Debug\BigDog.exe
+D:\Oleh\Code\Homework05BigDoge\BigDog\BigDog\bin\Debug\BigDog.pdb
+D:\Oleh\Code\Homework05BigDoge\BigDog\BigDog\obj\Debug\BigDog.exe
+D:\Oleh\Code\Homework05BigDoge\BigDog\BigDog\obj\Debug\BigDog.pdb

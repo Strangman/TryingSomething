@@ -1,0 +1,7 @@
+D:\Oleh\Code\Homework04Doge\Doge\Doge\bin\Debug\Doge.exe.config
+D:\Oleh\Code\Homework04Doge\Doge\Doge\bin\Debug\Doge.exe
+D:\Oleh\Code\Homework04Doge\Doge\Doge\bin\Debug\Doge.pdb
+D:\Oleh\Code\Homework04Doge\Doge\Doge\obj\Debug\Doge.csprojAssemblyReference.cache
+D:\Oleh\Code\Homework04Doge\Doge\Doge\obj\Debug\Doge.csproj.CoreCompileInputs.cache
+D:\Oleh\Code\Homework04Doge\Doge\Doge\obj\Debug\Doge.exe
+D:\Oleh\Code\Homework04Doge\Doge\Doge\obj\Debug\Doge.pdb
