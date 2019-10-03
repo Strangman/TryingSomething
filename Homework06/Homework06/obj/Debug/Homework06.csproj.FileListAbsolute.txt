@@ -1,0 +1,7 @@
+C:\Games\Programming\Bush\Homework06\Homework06\Homework06\bin\Debug\Homework06.exe.config
+C:\Games\Programming\Bush\Homework06\Homework06\Homework06\bin\Debug\Homework06.exe
+C:\Games\Programming\Bush\Homework06\Homework06\Homework06\bin\Debug\Homework06.pdb
+C:\Games\Programming\Bush\Homework06\Homework06\Homework06\obj\Debug\Homework06.csprojAssemblyReference.cache
+C:\Games\Programming\Bush\Homework06\Homework06\Homework06\obj\Debug\Homework06.csproj.CoreCompileInputs.cache
+C:\Games\Programming\Bush\Homework06\Homework06\Homework06\obj\Debug\Homework06.exe
+C:\Games\Programming\Bush\Homework06\Homework06\Homework06\obj\Debug\Homework06.pdb
